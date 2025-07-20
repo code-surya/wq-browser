@@ -1,4 +1,15 @@
 # Logs
+<<<<<<< HEAD
+=======
+/node_modules
+/dist
+/.idea
+.DS_Store
+.env
+*.log
+src-tauri/target
+src-tauri/Cargo.lock
+>>>>>>> 8980ea7b8b175a31fe908a49fc43073c741e6924
 logs
 *.log
 npm-debug.log*
